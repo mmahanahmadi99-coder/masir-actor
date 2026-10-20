@@ -1,0 +1,8 @@
+{
+  "name": "masir-actor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persian acting education web application based on the supplied Figma design",
+  "scripts": {"start": "node server.mjs", "check": "node --check app.js && node --check server.mjs"},
+  "engines": {"node": ">=20"}
+}
